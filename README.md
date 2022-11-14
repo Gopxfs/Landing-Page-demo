@@ -15,4 +15,4 @@ A demonstration of a simple landing page, with a navbar & some items being displ
 Give a :star: if you like my project! 
 
 ## :pencil: License
-This project is [MIT](https://github.com/Gopxfs/<PROJECT NAME>/blob/main/LICENSE) licensed. 
+This project is [MIT](https://github.com/Gopxfs/Landing-Page-demo/blob/main/LICENSE) licensed. 
